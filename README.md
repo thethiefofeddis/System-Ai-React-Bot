@@ -14,4 +14,4 @@ DO NOT HARDCODE YOUR BOT TOKEN!!! Set is as a environment variable when you make
 
 Use your discord devloper portal to make an app and enable Message Content Intent and let it react 
 
-Thanks to my homebody that don't wanna be named for changing it from GD to Python
+Thanks to my homeboy that don't wanna be named for changing it from GD to Python
