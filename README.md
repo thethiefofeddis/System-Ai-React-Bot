@@ -11,3 +11,5 @@ Just swap these out
   }
 
 DO NOT HARDCODE YOUR BOT TOKEN!!! Set is as a environment variable when you make the file. HARDCODING IT IS A GOOD WAY TO LOSE YOUR DISCORD
+
+Use your discord devloper portal to make an app and enable Message Content Intent and let it react 
